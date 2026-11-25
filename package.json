@@ -1,0 +1,1 @@
+{"description":"make.fun entry for The GPS Swears It Was a Shortcut: a deterministic Node 22 program that writes the GPS's one-line excuse for sending the driver down the wrong road to /output/entry.txt.","license":"MIT","main":"main.ts","name":"makefun-gps-shortcut","type":"module","version":"1.0.0"}
